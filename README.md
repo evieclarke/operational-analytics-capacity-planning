@@ -33,7 +33,7 @@ The objective of this project was to identify capacity pressures, utilisation tr
 ## Tools Used
 Python, Operational Analytics, Exploratory Data Analysis (EDA), Data Cleaning, Data Wrangling, Data Visualisation, Capacity Planning, Resource Allocation, Demand Analysis, Geographic Analysis, Service Performance Analysis, Business Intelligence
 
-## Visual Outputs
+## Key Visuals
 ### Capacity Pressure Analysis
 [![Alt Text](images/capacity_pressure.png)
 
