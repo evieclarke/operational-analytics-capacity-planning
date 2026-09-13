@@ -35,7 +35,7 @@ Python, Operational Analytics, Exploratory Data Analysis (EDA), Data Cleaning, D
 
 ## Visual Outputs
 ### Capacity Pressure Analysis
-[](images/capacity_pressure.png)
+[![Alt Text](images/capacity_pressure.png)
 
 ### Regional Utilisation Analysis
 [![Alt Text](images/regional_utilisation.png)
